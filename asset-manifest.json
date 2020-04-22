@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fangyuan/static/css/main.78dde5dd.chunk.css",
-    "main.js": "/fangyuan/static/js/main.754c9e97.chunk.js",
-    "main.js.map": "/fangyuan/static/js/main.754c9e97.chunk.js.map",
+    "main.js": "/fangyuan/static/js/main.4cb18c4f.chunk.js",
+    "main.js.map": "/fangyuan/static/js/main.4cb18c4f.chunk.js.map",
     "runtime-main.js": "/fangyuan/static/js/runtime-main.19322fb2.js",
     "runtime-main.js.map": "/fangyuan/static/js/runtime-main.19322fb2.js.map",
     "static/css/2.38aff980.chunk.css": "/fangyuan/static/css/2.38aff980.chunk.css",
     "static/js/2.7d3ab5fc.chunk.js": "/fangyuan/static/js/2.7d3ab5fc.chunk.js",
     "static/js/2.7d3ab5fc.chunk.js.map": "/fangyuan/static/js/2.7d3ab5fc.chunk.js.map",
     "index.html": "/fangyuan/index.html",
-    "precache-manifest.50311500ac0fab92f546e638b6b3bfa5.js": "/fangyuan/precache-manifest.50311500ac0fab92f546e638b6b3bfa5.js",
+    "precache-manifest.391ab80dc1987c97231416b71f9ec3c2.js": "/fangyuan/precache-manifest.391ab80dc1987c97231416b71f9ec3c2.js",
     "service-worker.js": "/fangyuan/service-worker.js",
     "static/css/2.38aff980.chunk.css.map": "/fangyuan/static/css/2.38aff980.chunk.css.map",
     "static/css/main.78dde5dd.chunk.css.map": "/fangyuan/static/css/main.78dde5dd.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.38aff980.chunk.css",
     "static/js/2.7d3ab5fc.chunk.js",
     "static/css/main.78dde5dd.chunk.css",
-    "static/js/main.754c9e97.chunk.js"
+    "static/js/main.4cb18c4f.chunk.js"
   ]
 }
