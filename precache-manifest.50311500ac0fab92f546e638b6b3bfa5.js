@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c54d4b0d90d37771d96bb92035ffb73",
+    "revision": "c07e4fe3be98e1aede255fa7c5e40463",
     "url": "/fangyuan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fangyuan/static/css/2.38aff980.chunk.css"
   },
   {
-    "revision": "97bdc13ab4fb3d3f3ec7",
+    "revision": "490b7aa124ee8435765f",
     "url": "/fangyuan/static/css/main.78dde5dd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fangyuan/static/js/2.7d3ab5fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97bdc13ab4fb3d3f3ec7",
-    "url": "/fangyuan/static/js/main.41cff834.chunk.js"
+    "revision": "490b7aa124ee8435765f",
+    "url": "/fangyuan/static/js/main.754c9e97.chunk.js"
   },
   {
     "revision": "e1bc965d4c3ec2dc5cac",
