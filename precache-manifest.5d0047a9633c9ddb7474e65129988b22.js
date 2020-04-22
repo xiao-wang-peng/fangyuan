@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00a6084c02dd3b8ceb4d0bd9ba0c20fe",
+    "revision": "7c54d4b0d90d37771d96bb92035ffb73",
     "url": "/fangyuan/index.html"
   },
   {
-    "revision": "f3e9ca83a01848899727",
+    "revision": "4506aa0c1a8de9296940",
     "url": "/fangyuan/static/css/2.38aff980.chunk.css"
   },
   {
-    "revision": "fcafc5c6a42988087e72",
+    "revision": "97bdc13ab4fb3d3f3ec7",
     "url": "/fangyuan/static/css/main.78dde5dd.chunk.css"
   },
   {
-    "revision": "f3e9ca83a01848899727",
-    "url": "/fangyuan/static/js/2.9d2e4c26.chunk.js"
+    "revision": "4506aa0c1a8de9296940",
+    "url": "/fangyuan/static/js/2.7d3ab5fc.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/fangyuan/static/js/2.9d2e4c26.chunk.js.LICENSE.txt"
+    "url": "/fangyuan/static/js/2.7d3ab5fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcafc5c6a42988087e72",
-    "url": "/fangyuan/static/js/main.d82a16ab.chunk.js"
+    "revision": "97bdc13ab4fb3d3f3ec7",
+    "url": "/fangyuan/static/js/main.41cff834.chunk.js"
   },
   {
     "revision": "e1bc965d4c3ec2dc5cac",
