@@ -5,6 +5,10 @@ import { getSwiper, getGroup, getNews } from "../../utils/api/Home";
 import "./index.scss";
 import navs from "../../utils/navConfig";
 
+import { getCurCity } from "../../utils";
+
+
+
 class Index extends Component {
   state = {
     // 轮播图的数据
@@ -18,11 +22,28 @@ class Index extends Component {
     // 资讯列表的数据
     news: [],
     // 头部搜索的关键词
-    keyword:''
+    keyword:'',
+    // 当前城市
+    curCity:{
+      // 城市名字
+      label:'',
+      // 城市ID
+      value:''
+    }
   };
   componentDidMount() {
     
     this.getAllDatas()
+    this.getCurCity()
+  }
+
+  // 根据百度地图获取当前定位城市
+  getCurCity = async () => {  
+    const res = await getCurCity()
+    console.log(res)
+    this.setState({
+    curCity:res
+    })
   }
 
   // 获取首页所有接口数据
@@ -56,7 +77,7 @@ class Index extends Component {
           this.props.history.push('/cityList')
         }
         }>
-          北京<i className="iconfont icon-arrow" />
+          {this.state.curCity.label}<i className="iconfont icon-arrow" />
         </div>
         <SearchBar
           value={this.state.keyword}
